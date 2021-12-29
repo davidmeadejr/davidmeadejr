@@ -1,6 +1,6 @@
 A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England, passionate about full-stack development in the web3 and blockchain space.
 
-**About me**
+**About**
 
 * 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
 
