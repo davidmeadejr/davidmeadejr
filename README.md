@@ -2,6 +2,8 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 **About**
 
+* 🧑🏿‍🎓 Bsc Digital & Technology Solutions
+
 * 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
 
 * 🧑🏿‍💻 Web3 Stack Engineer at [Thrill](https://thrill.digital/) 
