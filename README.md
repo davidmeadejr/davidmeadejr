@@ -4,7 +4,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
 
-* 🧑🏿‍💻 Web3 stack developer at [Thrill](https://thrill.digital/) 
+* 🧑🏿‍💻 Web3 Stack Engineer at [Thrill](https://thrill.digital/) 
 
 * 🙋🏿‍♂️ Writing in TypeScript, and building digital products is my thing.
 
