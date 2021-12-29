@@ -8,7 +8,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🙋🏿‍♂️ Writing in TypeScript, Rust and building digital products is my thing.
 
-* 🔭 Currently expanding my horizons learning to build dApps using the Solana.
+* 🔭 Currently expanding my horizons learning to build dApps on Solana.
 
 **Languages and Tools:**  
 
