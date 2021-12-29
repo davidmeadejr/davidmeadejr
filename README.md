@@ -6,7 +6,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🧑🏿‍💻 Web3 stack developer at [Thrill](https://thrill.digital/) 
 
-* 🙋🏿‍♂️ Writing in TypeScript, and building cool digital products is my thing.
+* 🙋🏿‍♂️ Writing in TypeScript, and building digital products is my thing.
 
 * 🌅 Currently expanding my horizons and learning Rust for Solana development.
 
