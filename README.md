@@ -1,14 +1,14 @@
-I'm a creative technologist passionate about full-stack development in the web3 and metaverse space.
+A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England, passionate about full-stack development in the web3 and blockchain space.
 
-About me
+**About me**
 
-* 💼 Front End Engineer at Santander
+* 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
 
-* 💼 Web3 stack developer at Thrill 
+* 🧑🏿‍💻 Web3 stack developer at [Thrill](https://thrill.digital/) 
 
-* ❤️ I love writing TypeScript, and building fun experiments on type-level
+* 🙋🏿‍♂️ Writing in TypeScript, and building cool products is my thing.
 
-* 💬 Ask me about anything [here](https://twitter.com/davidmeadejr)
+* 🌅 Currently expanding my horizons and learning Rust for Solana development.
 
 **Languages and Tools:**  
 
@@ -17,10 +17,8 @@ About me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=radical)"/>
-
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact"/>
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=default" alt="DMJ's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact" /></a> |
+| ------------- | ------------- |
 
