@@ -4,6 +4,10 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🧑🏿‍🎓 BSc Digital & Technology Solutions
 
+* �🏿‍🎓4+ years working in FinTech
+
+* 🏬 5+ years working in Retail 
+
 * 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
 
 * 🧑🏿‍💻 Web3 Stack Engineer at [Thrill](https://thrill.digital/) 
