@@ -8,7 +8,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🏬 5+ years working in Retail 
 
-* 🧑🏿‍💻 Writing code at [Santander](https://www.santander.co.uk/) and  [Thrill](https://thrill.digital/) 
+* 🧑🏿‍💻 Writing code at [Santander](https://www.santander.co.uk/) and  [ThrillDAO](https://thrill.digital/) 
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
