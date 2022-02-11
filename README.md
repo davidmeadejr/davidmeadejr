@@ -1,4 +1,4 @@
-A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England, passionate about the full-stack development of digital products in the web3 and blockchain space.
+A creative technologist passionate about the full-stack development of digital products in the web3 and blockchain space.
 
 **About**
 
