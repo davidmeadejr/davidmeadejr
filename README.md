@@ -8,9 +8,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🏬 5+ years working in Retail 
 
-* 🧑🏿‍💻 Front End Engineer at [Santander](https://www.santander.co.uk/)
-
-* 🧑🏿‍💻 Web3 Stack Engineer at [Thrill](https://thrill.digital/) 
+* 🧑🏿‍💻 Writing code at [Santander](https://www.santander.co.uk/) and  [Thrill](https://thrill.digital/) 
 
 * 🙋🏿‍♂️ Writing in TypeScript and building digital products is my thing.
 
