@@ -10,7 +10,7 @@ A creative technologist currently based in the 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Engl
 
 * 🧑🏿‍💻 Writing code at [Santander](https://www.santander.co.uk/) and  [Thrill](https://thrill.digital/) 
 
-* 🙋🏿‍♂️ Writing in TypeScript and building digital products is my thing.
+* 🙋🏿‍♂️ Building digital products is my thing.
 
 * 🔭 Currently expanding my horizons by learning smart contract development.
 
