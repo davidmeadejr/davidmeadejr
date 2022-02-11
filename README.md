@@ -1,4 +1,5 @@
 **About**
+
 A creative technologist passionate about the full-stack development of digital products in the web3 and blockchain space.
 
 **Experience**
