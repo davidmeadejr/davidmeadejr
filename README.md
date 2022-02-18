@@ -10,7 +10,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🏬 5+ years working in Retail 
 
-* 🧑🏿‍💻 Writing code at [Flooz](https://www.flooz.world/ and  [ThrillDAO](https://thrill.digital/) 
+* 🧑🏿‍💻 Writing code at [Flooz](https://www.flooz.world/) and  [ThrillDAO](https://thrill.digital/) 
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
