@@ -14,7 +14,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Currently expanding my horizons by learning smart contract development.
+* 🔭 Always learning.
 
 **Languages and Tools**  
 
