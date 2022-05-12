@@ -1,6 +1,6 @@
 **About**
 
-A creative technologist passionate about the full-stack development of digital products in the web3 and blockchain space.
+A creative technologist passionate about the full-stack development of digital products in the web3 space.
 
 **Experience**
 
@@ -10,7 +10,9 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🏬 5+ years working in Retail 
 
-* 🧑🏿‍💻 Writing code at [Flooz](https://www.flooz.world/)
+* 🚀 1+ years working in web3
+
+* 🧑🏿‍💻 Writing code at TBC
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
