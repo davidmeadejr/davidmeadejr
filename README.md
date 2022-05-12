@@ -6,9 +6,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍🎓 BSc Digital & Technology Solutions
 
-  🌐
-* 🌐 1+ years working in web3
-  🌐
+* 🚀 1+ years working in web3
 
 * 🏦 4+ years working in FinTech
 
