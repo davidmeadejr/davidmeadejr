@@ -10,7 +10,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🏦 4+ years working in FinTech
 
-* 🏬 5+ years working in Retail 
+* 🏬 5+ years working in retail 
 
 * 🧑🏿‍💻 Writing code at TBC
 
