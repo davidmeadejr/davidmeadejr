@@ -14,7 +14,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍💻 Writing code at TBC
 
-* 🙋🏿‍♂️ Building digital products is my thing.
+* 🙋🏿‍♂️ Building digital products is my thing
 
 * 🔭 Always learning.
 
