@@ -6,7 +6,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍🎓 BSc Digital & Technology Solutions
 
-* 🧑🏿‍💻 Makers Academy student
+* 🧑🏿‍💻 Makers Academy coding bootcamp student
 
 * 🚀 1+ years working in web3
 
