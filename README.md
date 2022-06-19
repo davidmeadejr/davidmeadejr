@@ -6,6 +6,8 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍🎓 BSc Digital & Technology Solutions
 
+* 🧑🏿‍🎓 Makers Academy student
+
 * 🚀 1+ years working in web3
 
 * 🏦 4+ years working in FinTech
@@ -14,9 +16,9 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍💻 Writing code at TBC
 
-* 🙋🏿‍♂️ Building digital products is my thing
+* 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Always learning.
+* 🔭 Learning blockchain development in my spare time.
 
 **Languages and Tools**  
 
