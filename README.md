@@ -4,7 +4,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 **Experience**
 
-* 🧑🏿‍🎓 BSc Digital & Technology Solutions from [BPP University](https://www.bpp.com/)
+* 🧑🏿‍🎓 BSc Digital & Technology Solutions graduate @ [BPP University](https://www.bpp.com/)
 
 * 🧑🏿‍💻 Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/) 
 
