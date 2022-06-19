@@ -1,6 +1,6 @@
 **About**
 
-A blockchain engineer in training passionate about the full-stack development of digital products in the web3 space.
+Passionate about the full-stack development of digital products in the web3 space.
 
 **Experience**
 
