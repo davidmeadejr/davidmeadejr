@@ -12,7 +12,7 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/)
 
-* 🏬 5+ years working in retail @ [Superdry](https://www.santander.co.uk/(https://www.superdry.com/)
+* 🏬 5+ years working in retail @ [Superdry](https://www.superdry.com/)
 
 * 🧑🏿‍💻 Writing code at TBC
 
