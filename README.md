@@ -6,13 +6,13 @@ A creative technologist passionate about the full-stack development of digital p
 
 * 🧑🏿‍🎓 BSc Digital & Technology Solutions from [BPP University](https://www.bpp.com/)
 
-* 🧑🏿‍💻 Software Developer Bootcamp Student [Makers Academy](https://makers.tech/) 
+* 🧑🏿‍💻 Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/) 
 
 * 🚀 1+ years working in web3 @ [Thrill Dao](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/)
 
-* 🏦 4+ years working in FinTech @ [Santander]([https://www.santander.com/en/careers/uk-careers](https://www.santander.co.uk/)
+* 🏦 4+ years working in FinTech @ [Santander](https://www.santander.com/en/careers/uk-careers](https://www.santander.co.uk/)
 
-* 🏬 5+ years working in retail @ [Superdry]([https://www.santander.co.uk/](https://www.superdry.com/)
+* 🏬 5+ years working in retail @ [Superdry](https://www.santander.co.uk/](https://www.superdry.com/)
 
 * 🧑🏿‍💻 Writing code at TBC
 
