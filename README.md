@@ -1,23 +1,15 @@
-<h1 align="center"> Luke Wickens
+<h1 align="center"> David Meade Jr.
 <br>
-<a href="https://linkedin.com/in/lukewickens">
-  <img align="center" alt="lukewickens1989 | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+<a href="https://www.linkedin.com/in/davidmeadejr/">
+  <img align="center" alt="David Meade Jr. | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
   &nbsp;
-<a href="mailto:lukewickens1989@gmail.com">
+<a href="mailto:davidmeadejnrgmail.com">
   <img align="center" alt="lukewickens1989 | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
   &nbsp;
-<a href="https://lukewickens1989.medium.com/">
-<img align="center" alt="lukewickens1989 | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-  &nbsp;
-<a href="https://https://www.instagram.com/mustytomes/">
-<img align="center" alt="lukewickens1989 | Instagram" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-</a>
-  &nbsp;
-<a href="https://www.twitter.com/luke_wickens">
-<img align="center" alt="lukewickens1989 | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+<a href="https://www.twitter.com/davidmeadejr">
+<img align="center" alt="davidmeadejr | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 </h1>
 
