@@ -26,7 +26,7 @@ Passionate about the full-stack development of digital products in the web3 spac
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/)
 
-* 🧑🏿‍💻 Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/) 
+* 🧑🏿‍💻 Full-Stack Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/) 
 
 * 🚀 1+ years working in web3 @ [Thrill Dao](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/)
 
