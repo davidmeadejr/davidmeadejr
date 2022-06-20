@@ -10,6 +10,14 @@
   &nbsp;
 </h1>
 
+<p align="center">
+  <em>
+   Blockchain Engineer in training.
+   &nbsp;
+  </em> 
+  <br>
+</p>
+
 **About**
 
 Passionate about the full-stack development of digital products in the web3 space.
