@@ -10,13 +10,13 @@
   &nbsp;
 </h1>
 
-<!-- <p align="center">
+<p align="center">
   <em>
    Full-Stack Blockchain Engineer in training.
    &nbsp;
   </em> 
   <br>
-</p> -->
+</p>
 
 **About**
 
