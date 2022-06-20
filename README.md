@@ -5,9 +5,9 @@
 </a> -->
   &nbsp;
 <a href="mailto:davidmeadejnrgmail.com">
-  <img align="center" alt="lukewickens1989 | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="davidmeadejr | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-<!--   &nbsp; -->
+  &nbsp;
 </h1>
 
 <p align="center">
