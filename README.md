@@ -8,9 +8,6 @@
   <img align="center" alt="lukewickens1989 | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
   &nbsp;
-<a href="https://www.twitter.com/davidmeadejr">
-<img align="center" alt="davidmeadejr | Twitter" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a>
 </h1>
 
 **About**
