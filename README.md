@@ -1,5 +1,5 @@
 <h1 align="center"> David Meade Jr.
-<br>
+<!-- <br> -->
 <!-- <a href="https://www.linkedin.com/in/davidmeadejr/">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a> -->
