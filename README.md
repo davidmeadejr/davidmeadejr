@@ -4,9 +4,9 @@
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a> -->
   &nbsp;
-<!-- <a href="mailto:davidmeadejnrgmail.com">
+<a href="mailto:davidmeadejnrgmail.com">
   <img align="center" alt="davidmeadejr | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a> -->
+</a>
   &nbsp;
 </h1>
 
