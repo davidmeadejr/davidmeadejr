@@ -12,7 +12,7 @@
 
 <p align="center">
   <em>
-   Blockchain Engineer in training.
+   Full-Stack Blockchain Engineer in training.
    &nbsp;
   </em> 
   <br>
