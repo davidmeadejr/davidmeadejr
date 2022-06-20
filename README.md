@@ -34,7 +34,7 @@ Passionate about the full-stack development of digital products in the web3 spac
 
 * 🏬 5+ years working in retail @ [Superdry](https://www.superdry.com/)
 
-* 🧑🏿‍💻 Writing code at TBC
+* 🧑🏿‍💻 Writing code @ TBC
 
 * 🙋🏿‍♂️ Building digital products is my thing
 
