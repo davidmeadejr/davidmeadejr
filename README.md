@@ -40,6 +40,8 @@ Passionate about the full-stack development of digital products in the web3 spac
 
 * 🔭 Studying maths, investing and all things web3 in my spare time
 
+---
+
 **Tech Stack**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
