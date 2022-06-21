@@ -1,8 +1,8 @@
 <h1 align="center"> David Meade Jr.
 <br>
-<!-- <a href="https://www.linkedin.com/in/davidmeadejr/">
+<a href="https://www.linkedin.com/in/davidmeadejr/">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a> -->
+</a>
   &nbsp;
 <a href="mailto:davidmeadejnrgmail.com">
   <img align="center" alt="davidmeadejr | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
