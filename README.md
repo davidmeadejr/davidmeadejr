@@ -48,7 +48,6 @@ Languages: <code><img height="20" src="https://raw.githubusercontent.com/github/
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="20" width="20"/></code>
-<!-- <code><img![Solidity](https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png) width="20" height="40"></code> -->
 <br /> 
 <br /> 
 Libraries: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
