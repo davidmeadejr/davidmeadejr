@@ -47,7 +47,8 @@ Passionate about the full-stack development of digital products in the web3 spac
 Languages: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="20" width="20"/></code>
+<code><img src="https://icon2.cleanpng.com/20190726/uli/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfe93fac2.9289112115641471986061.jpg" alt="Solidity" height="20" width="20"/></code>
 <br /> 
 <br /> 
 Libraries: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
