@@ -40,7 +40,8 @@ Passionate about the full-stack development of digital products in the web3 spac
 
 * 🙋🏿‍♂️ Building digital products is my thing
 
-* 🔭 Studying maths, investing and all things web3 in my spare time
+* 🔭 Exploring maths, investing and all things web3 in my spare time
+<em>(If i'm not at the gym, watching anime or reading manga. </em>
 
 ---
 
