@@ -22,6 +22,8 @@
 
 Passionate about the full-stack development of digital products in the web3 space.
 
+---
+
 **Experience**
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/)
