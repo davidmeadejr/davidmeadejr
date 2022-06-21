@@ -26,22 +26,22 @@ Passionate about the full-stack development of digital products in the web3 spac
 
 **Experience**
 
-* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/)
+* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
 
-* 🧑🏿‍💻 Full-Stack Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/) 
+* 🧑🏿‍💻 Full-Stack Software Developer Bootcamp Student @ [Makers Academy](https://makers.tech/).
 
-* 🚀 1+ years working in web3 @ [Thrill Dao](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/)
+* 🚀 1+ years working in web3 @ [Thrill Dao](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/).
 
-* 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/)
+* 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/).
 
-* 🏬 5+ years working in retail @ [Superdry](https://www.superdry.com/)
+* 🏬 5+ years working in retail @ [Superdry](https://www.superdry.com/).
 
-* 🧑🏿‍💻 Writing code @ TBC
+* 🧑🏿‍💻 Writing code @ TBC.
 
-* 🙋🏿‍♂️ Building digital products is my thing
+* 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Exploring maths, investing and all things web3 in my spare time
-<em>(If i'm not at the gym, watching anime or reading manga) </em>
+* 🔭 Exploring maths, investing and all things web3 in my spare time,
+<em>(If i'm not at the gym, watching anime or reading manga). </em>
 
 ---
 
