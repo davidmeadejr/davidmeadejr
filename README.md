@@ -15,6 +15,7 @@
    Full-Stack Blockchain Engineer in training.
    &nbsp;
    <br/>
+   <br/>
     Passionate about the full-stack development of digital products in the web3 space.
   </em> 
   <br>
