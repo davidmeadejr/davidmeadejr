@@ -14,17 +14,15 @@
   <em>
    Full-Stack Blockchain Engineer in training.
    &nbsp;
+   <br/>
+    Passionate about the full-stack development of digital products in the web3 space.
   </em> 
   <br>
 </p>
 
-**About**
-
-Passionate about the full-stack development of digital products in the web3 space.
-
 ---
 
-**Experience**
+**About**
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
 
