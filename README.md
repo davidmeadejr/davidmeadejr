@@ -16,7 +16,9 @@
    &nbsp;
    <br/>
    <br/>
+   <em/>
     Passionate about the full-stack development of digital products in the web3 space.
+   <em/>
   </em> 
   <br>
 </p>
