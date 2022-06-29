@@ -18,7 +18,7 @@
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 ---
 
