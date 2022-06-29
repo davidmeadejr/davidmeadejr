@@ -2,8 +2,6 @@
 <h1 align="center">
   David Meade Jr.
   <br /> 
-    <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="72">
-  <br /> 
 <a href="https://www.linkedin.com/in/davidmeadejr/">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px"
    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -27,7 +25,9 @@
   </em> 
   <br>
 </p> -->
-<div align="center">
+
+  <br /> 
+    <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="72">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=fafbfc&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
 <!-- fafbfc -->
