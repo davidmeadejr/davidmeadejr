@@ -13,26 +13,11 @@
   &nbsp;
 </h1>
 
-<!-- <p align="center">
-  <em>
-   Full-Stack Blockchain Engineer in training.
-   &nbsp;
-   <br/>
-   <br/>
-   <em/>
-    Passionate about the full-stack development of digital products in the web3 space.
-   <em/>
-  </em> 
-  <br>
-</p> -->
-
 <div align="center">
   <br /> 
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=6ad707&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
-<!-- fafbfc -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=6ad707&center=true&vCenter=true&width=900&height=60&lines=Full-  Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
  </div>
 
 ---
