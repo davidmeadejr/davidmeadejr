@@ -38,7 +38,7 @@
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Exploring maths, investing and all things web3 in my spare time.
+* 🔭 Exploring maths, philosophy, investing and all things web3 in my spare time.
   * 🥷🏿 <em>(If i'm not at the gym, watching anime or reading). </em>
 
 ---
