@@ -18,7 +18,7 @@
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 ---
 
@@ -46,8 +46,8 @@
 **Tech Stack**  
 
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FFCA28" /></code>
-<code><<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
-<code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=FFCA28" /><</code>
+<code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
+<code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=FFCA28" /></code>
 <br /> 
 <br /> 
