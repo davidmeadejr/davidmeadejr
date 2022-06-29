@@ -1,8 +1,8 @@
 
 <h1 align="center">
   David Meade Jr.
-  <br>
     &nbsp;
+  <br>
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
   <br>
 <a href="https://www.linkedin.com/in/davidmeadejr/">
