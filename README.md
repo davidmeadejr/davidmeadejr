@@ -62,7 +62,7 @@
 
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=FFCA28" /></code>
 <code><<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=FFCA28" /><</code>
 <code><img src="https://icon2.cleanpng.com/20190726/uli/kisspng-solidity-smart-contract-programming-language-ether-blockchain-development-bearplex-5d3afdfe93fac2.9289112115641471986061.jpg" alt="Solidity" height="20" width="20"/></code>
 <br /> 
 <br /> 
