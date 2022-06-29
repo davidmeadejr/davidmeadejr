@@ -51,7 +51,7 @@ Product Design: <code><img src="https://img.shields.io/badge/-Figma-ffffff?style
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
 <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
-<code><img src="https://img.shields.io/badge/-Solidity-ffffff?style=flat&logo=solidity&logoColor=383838" /></code>
+<code><img src="https://img.shields.io/badge/-Solidity-ffffff?style=flat&logo=solidity&logoColor=000000" /></code>
 <br /> 
 <br /> 
 Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
