@@ -58,7 +58,7 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
-Database Management Systems:  <code> </code>
+Database Management:  <code> </code>
 <br /> 
 <br />
 Testing:  <code> </code>
