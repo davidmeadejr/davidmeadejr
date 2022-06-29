@@ -10,7 +10,7 @@
   &nbsp;
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>
    Full-Stack Blockchain Engineer in training.
    &nbsp;
@@ -21,7 +21,12 @@
    <em/>
   </em> 
   <br>
-</p>
+</p> -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full-Stack+Blockchain+Engineer.;Passionate+about+the+full-stack+development+of+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
+
+ </div>
 
 ---
 
