@@ -54,7 +54,8 @@ Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&
 Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
 <br /> 
 <br /> 
-Frameworks: <code><img src="https://img.shields.io/badge/-Angular?style=flat&logo=angular&logoColor=F44336"></code>
+Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=F44336"></code>
+<img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" />
 <br /> 
 <br /> 
 Testing:  <code> </code>
