@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
-<h1 align="center"> David Meade Jr.
-<img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
+
+<h1 align="center">
+ <img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
+  David Meade Jr.
+ <img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
 <br>
 <a href="https://www.linkedin.com/in/davidmeadejr/">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
