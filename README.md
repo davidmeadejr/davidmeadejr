@@ -51,10 +51,10 @@ Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&
 <code><img src="https://img.shields.io/badge/-Solidity-ffffff?style=flat&logo=solidity&logoColor=383838" /></code>
 <br /> 
 <br /> 
-Libraries: <code><img height="20" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
+Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
 <br /> 
 <br /> 
-Frameworks: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
+Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=F44336"></code>
 <br /> 
 <br /> 
 Testing:  <code> </code>
