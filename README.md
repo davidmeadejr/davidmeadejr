@@ -48,8 +48,7 @@
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
 <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
-<code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity" /></code>
-<!-- <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=FFCA28" /></code> -->
+<code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=383838" /></code>
 <br /> 
 <br /> 
 Libraries: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
