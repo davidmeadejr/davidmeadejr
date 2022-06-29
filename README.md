@@ -1,5 +1,5 @@
+<img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
 <h1 align="center"> David Meade Jr.
-<!--   <img src="https://giphy.com/embed/aExP3YOqb6ImBe5HG2" width="480"> -->
 <img src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="48">
 <br>
 <a href="https://www.linkedin.com/in/davidmeadejr/">
