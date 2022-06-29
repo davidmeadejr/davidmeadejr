@@ -58,10 +58,13 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
+Database Management Systems:  <code> </code>
+<br /> 
+<br />
 Testing:  <code> </code>
 <br /> 
 <br /> 
-Other:   <code> </code>
+Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/solidity/solidity.png"></code> -->
 
 <!-- <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
