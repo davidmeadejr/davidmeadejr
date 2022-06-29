@@ -24,7 +24,7 @@
 </p> -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+the+full-stack+development+of+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Blockchain+Engineer.;Passionate+about+leveraging+software+to+build+digital+products+in+the+web3+space.)](https://git.io/typing-svg)
 
  </div>
 
