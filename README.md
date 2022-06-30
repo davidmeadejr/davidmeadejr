@@ -53,7 +53,7 @@
 
 **Tech Stack**  
 
-Product Design: <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=ffffff" /></code>
+Product Design (UX/UI): <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=ffffff" /></code>
 <br /> 
 <br /> 
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
