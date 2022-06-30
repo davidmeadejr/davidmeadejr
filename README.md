@@ -93,7 +93,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
  <br />
  <br />
-<img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <br />
 <br />
 <br />
