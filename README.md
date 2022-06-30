@@ -23,7 +23,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=David+Meade+Jr.;Programmer.;Specialising+in+full-stack+blockchain+engineering;and+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 <h1 align="center">
-  <br /> 
 <a href="https://www.linkedin.com/in/davidmeadejr/">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px"
    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
