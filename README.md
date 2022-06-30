@@ -93,6 +93,8 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
 <br />
 <br />
+<br />
+<br />
  <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=6ad20b&style=flat&logo" alt="back to top" /></a></p>
 
 <p align="center">
