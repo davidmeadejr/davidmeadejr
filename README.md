@@ -19,8 +19,6 @@
 
 ---
 
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
-
 **About**
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
