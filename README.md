@@ -20,7 +20,7 @@
  
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Programmer.;Specialising+in+full-stack+blockchain+engineering; and+product+design.;Passionate+about+building+digital+products+in+the+web3+space.)](https://git.io/typing-svg) -->
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Programmer.;Specialising+in+full-stack+blockchain+engineering;and+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Programmer.;Specialising+in+full-stack+blockchain+engineering;and+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 ---
 
