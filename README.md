@@ -17,6 +17,8 @@
   &nbsp;
 </div>
 
+<a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/main/devcard.svg" width="200" align="right" alt="David Meade Jrs' Dev Card"/></a>
+
 ---
 
 **About**
