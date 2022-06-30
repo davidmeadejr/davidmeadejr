@@ -21,7 +21,10 @@
 
 **About**
 
-<a href="https://app.daily.dev/davidmeadejr"><img src="https://api.daily.dev/devcards/e4137eec05bf4a8ab6b31516bc7b8a71.png?r=fus" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/davidmeadejr"><img src="https://api.daily.dev/devcards/e4137eec05bf4a8ab6b31516bc7b8a71.png?r=fus" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a> -->
+
+<a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
+
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
 
