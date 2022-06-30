@@ -100,7 +100,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
 <br />
 <br />
 <br />
- <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=^&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
+ <p height="32" align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=^&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
