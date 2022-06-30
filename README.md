@@ -91,6 +91,8 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
  <br />
  <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
+ 
+ <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=6ad20b&style=flat&logo" alt="back to top" /></a></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
