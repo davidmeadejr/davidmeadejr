@@ -5,13 +5,13 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=David+Meade+Jr.;Programmer.;Specialising+in+full-stack+blockchain+engineering;and+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
 
-<h1 align="center" style="border-bottom: none">
-<a href="https://www.linkedin.com/in/davidmeadejr/" style="text-decoration: none;">
+<h1 align="center">
+<a href="https://www.linkedin.com/in/davidmeadejr/" styles="text-decoration: none">
   <img align="center" alt="David Meade Jr. | LinkedIn" width="30px"
    src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
   &nbsp;
-<a href="mailto:davidmeadejnrgmail.com" style="text-decoration: none;">
+<a href="mailto:davidmeadejnrgmail.com" styles="text-decoration: none">
   <img align="center" alt="davidmeadejr | Email" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
   &nbsp;
