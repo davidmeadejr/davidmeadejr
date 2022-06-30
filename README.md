@@ -89,6 +89,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
  <br />
+ <br />
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
 
 
