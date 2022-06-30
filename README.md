@@ -34,8 +34,6 @@
   &nbsp;
 </h1>
 
----
-
 **About**
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
