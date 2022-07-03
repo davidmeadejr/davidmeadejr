@@ -44,14 +44,14 @@
 
 ---
 
-**Quote of the Day**
+**💬 Quote of the Day**
 <br />
 <br />
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-**Tech Stack**  
+**💻 Tech Stack**  
 
 Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
 <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
@@ -80,7 +80,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
 
 ---
 
-**Footprints**
+**👣 Footprints**
  * <strong>Student - Software Engineering Bootcamp</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
  * <strong>Freelance Software Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
@@ -92,7 +92,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
  
  ---
 
-**GitHub Stats**
+**📊 GitHub Stats**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
 
