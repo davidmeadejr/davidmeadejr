@@ -28,7 +28,7 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student @ [Makers Academy](https://makers.tech/).
 
-* 🚀 1+ years working in web3 @ [Thrill Dao](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/).
+* 🚀 1+ years working in web3 @ [Thrill Digital](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/).
 
 * 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/).
 
@@ -83,7 +83,7 @@ Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo
 **Footprints**
  * <strong>Student - Software Engineering Bootcamp</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
- * <strong>Freelance Software Engineer</strong>, <em>Thrill Dao</em> (Oct 2021 –  Apr 2022)   
+ * <strong>Freelance Software Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
  * <strong>Apprentice - Software Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
  * <strong>Apprentice - Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019)   
  * <strong>Apprentice - Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Sep 2018)    
