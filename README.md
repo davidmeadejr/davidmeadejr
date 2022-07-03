@@ -78,12 +78,19 @@ Testing:  <code> </code>
 Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
 
-
-<!-- <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   -->
-
 ---
+
+**Footprints**
+ * <strong>Student - Software Engineering</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
+ * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
+ * <strong>Freelance Software Engineer</strong>, <em>Thrill Dao</em> (Oct 2021 –  Apr 2022)   
+ * <strong>Apprentice - Software Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
+ * <strong>Apprentice - Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019)   
+ * <strong>Apprentice - Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Sep 2018)    
+ * <strong>Salest</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
+ * <strong>Salest</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016) 
+ 
+ ---
 
 **GitHub Stats**
 
