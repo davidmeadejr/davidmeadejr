@@ -32,7 +32,7 @@
 
 * 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/).
 
-* 🏬 5+ years working in sales @ [Superdry](https://www.superdry.com/) & [House of Fraser](https://www.houseoffraser.co.uk/).
+* 🏬 5+ years working in sales @ [House of Fraser](https://www.houseoffraser.co.uk/) & [Superdry](https://www.superdry.com/).
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
