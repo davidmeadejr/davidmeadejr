@@ -69,7 +69,7 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
-Database Management:  <code> </code>
+Database Management: <code>img src="https://img.shields.io/badge/-Postgres-000000?&style=flat&logo=postgres&logoColor=E64A19"/></code>
 <br /> 
 <br />
 Testing:  <code> </code>
