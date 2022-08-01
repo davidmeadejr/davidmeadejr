@@ -69,7 +69,9 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
-Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgres&logoColor=F44336"></code>
+Database Management: <code><img src="[https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgres&logoColor=F44336](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)"></code>
+<!-- <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgres&logoColor=F44336"></code>
+ -->
 <br /> 
 <br />
 Testing:  <code> </code>
