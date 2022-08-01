@@ -69,9 +69,7 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
-Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=Postgres&logoColor=F44336"></code>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-Realm	Realm	
+Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgres&logoColor=F44336"></code>
 <br /> 
 <br />
 Testing:  <code> </code>
