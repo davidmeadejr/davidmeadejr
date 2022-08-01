@@ -70,6 +70,8 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <br /> 
 <br /> 
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=Postgres&logoColor=F44336"></code>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+Realm	Realm	
 <br /> 
 <br />
 Testing:  <code> </code>
