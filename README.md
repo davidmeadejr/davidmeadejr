@@ -69,15 +69,15 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 <code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
-Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgres&logoColor=F44336"></code>
+Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=F44336"></code>
 <br /> 
 <br />
 Testing:  <code> </code>
 <br /> 
 <br /> 
-Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
-<code><img src="https://img.shields.io/badge/-vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
-<code><img src="https://img.shields.io/badge/-postman-000000?&style=flat&logo=Postman&logoColor=E64A19"/></code>
+Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
+<code><img src="https://img.shields.io/badge/-Vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
+<code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=E64A19"/></code>
 
 ---
 
