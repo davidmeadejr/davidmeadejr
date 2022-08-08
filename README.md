@@ -63,7 +63,6 @@ Product Design (UX/UI): <code><img src="https://img.shields.io/badge/-Figma-0000
 <br /> 
 <br /> 
 Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
-<code><img src="https://img.shields.io/badge/-Sinatra-000000?&style=flat&logo=sinatra&logoColor=E64A19"/></code>
 <br /> 
 <br /> 
 Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=F44336"></code>
