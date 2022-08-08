@@ -77,6 +77,7 @@ Testing:  <code> </code>
 <br /> 
 Other: <code><img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
+<code><img src="https://img.shields.io/badge/-postman-000000?&style=flat&logo=postman&logoColor=E64A19"/></code>
 
 ---
 
