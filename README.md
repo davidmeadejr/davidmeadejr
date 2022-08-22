@@ -78,7 +78,7 @@ Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&
 Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-Vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=E64A19"/></code>
-<code><img src="https://img.shields.io/badge/-NodeJs-000000?&style=flat&logo=nodeJs&logoColor=E64A19"/></code>
+<code><img src="https://img.shields.io/badge/-Node-000000?&style=flat&logo=nodeJs&logoColor=E64A19"/></code>
 
 ---
 
