@@ -72,7 +72,7 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=f
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=F44336"></code>
 <br /> 
 <br />
-Testing:  <code><img src="https://img.shields.io/badge/-jest-000000?&style=flat&logo=jests&logoColor=E64A19"/></code>
+Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&logo=jest&logoColor=E64A19"/></code>
 <br /> 
 <br /> 
 Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
