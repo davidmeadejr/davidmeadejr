@@ -3,7 +3,7 @@
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Konnichiwa;Im+David+Meade+Jr.;A+programmer+and+product+engineer.;Specialising+in+full-stack+blockchain+engineering;and+digital+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Welcome.;My+name+is+David.;I+am+a+programmer+and+product+engineer.;Specialising+in+full-stack+blockchain+engineering;and+digital+product+design.;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/davidmeadejr/">
