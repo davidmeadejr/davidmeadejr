@@ -24,15 +24,15 @@
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
 
-* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate @ [BPP University](https://www.bpp.com/).
+* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
 
-* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student @ [Makers Academy](https://makers.tech/).
+* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student.
 
-* 🚀 1+ years working in web3 @ [Thrill Digital](https://thrill.digital/) & [Flooz](https://docs.flooz.trade/).
+* 🚀 1+ years working in web3.
 
-* 🏦 4+ years working in FinTech @ [Santander](https://www.santander.co.uk/).
+* 🏦 4+ years working in FinTech.
 
-* 🏬 5+ years working in sales @ [House of Fraser](https://www.houseoffraser.co.uk/) & [Superdry](https://www.superdry.com/).
+* 🏬 5+ years working in sales.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
