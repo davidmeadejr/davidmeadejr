@@ -92,6 +92,8 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016) 
  
+For a full resume please click <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/main/.github/workflows/david-alistair-meade-resume.pdf">here</a></strong>. 
+
  ---
 
 **📊 GitHub Stats**
