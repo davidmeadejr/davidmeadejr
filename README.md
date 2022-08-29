@@ -91,8 +91,8 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
  * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
  * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
- * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
- * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016) 
+<!--  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
+ * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
 Full resume can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/david-alistair-meade-resume.pdf" target=”_blank”>here</a></strong>. 
 
