@@ -59,7 +59,7 @@ Languages: <code><img src="https://img.shields.io/badge/-JavaScript-000000?style
  <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
 <br /> 
 <br /> 
-Product Design (UX/UI): <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=f1501e" /></code>
+Product Design: <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=f1501e" /></code>
 <br /> 
 <br /> 
 Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
