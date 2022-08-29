@@ -53,10 +53,10 @@
 
 **💻 Tech Stack**  
 
-Languages: <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
-<code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
+Languages: <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript&logoColor=719af4" /></code>
 <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code>
+ <code><img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=e53935" /></code>
 <br /> 
 <br /> 
 Product Design (UX/UI): <code><img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=f1501e" /></code>
