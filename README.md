@@ -87,8 +87,9 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Software Engineer</strong>, <em>Flooz</em> (Mar 2022 –  May 2022) 
  * <strong>Freelance Front-End Engineer</strong>, <em>Thrill Digital</em> (Oct 2021 –  Apr 2022)   
  * <strong>Apprentice Front-End Engineer</strong>, <em>Santander</em> (Mar 2019 – Feb 2022)  
- * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019)   
- * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Sep 2018)    
+ * <strong>Apprentice Cyber Security Analyst</strong>, <em>Santander</em> (Sep 2018 – Mar 2019) 
+ * <strong>Apprentice Innovation Consultant</strong>, <em>Santander</em> (Mar 2018 – Sep 2018)    
+ * <strong>Apprentice Business Consultant</strong>, <em>Santander</em> (Sep 2017 – Mar 2018)    
  * <strong>Sales</strong>, <em>Superdry</em> (Sep 2016 – Nov 2021) 
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016) 
  
