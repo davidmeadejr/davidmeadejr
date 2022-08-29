@@ -66,7 +66,7 @@ Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat
 <br /> 
 <br /> 
 Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=F44336"></code>
-<code><img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <br /> 
 <br /> 
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=F44336"></code>
@@ -78,7 +78,7 @@ Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&
 Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-Vim-000000?&style=flat&logo=vim&logoColor=E64A19"/></code>
 <code><img src="https://img.shields.io/badge/-Postman-000000?&style=flat&logo=postman&logoColor=E64A19"/></code>
-<code><img src="https://img.shields.io/badge/-Node-000000?&style=flat&logo=nodeJs&logoColor=E64A19"/></code>
+<code><img src="https://img.shields.io/badge/-node.js-000000?&style=flat&logo=node.js&logoColor=E64A19"/></code>
 
 ---
 
