@@ -65,8 +65,8 @@ Product Design: <code><img src="https://img.shields.io/badge/-Figma-000000?style
 Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code>
 <br /> 
 <br /> 
-Frameworks: <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=de0031"></code>
-<code><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
+Frameworks: <code><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=de0031"></code>
 <br /> 
 <br /> 
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
