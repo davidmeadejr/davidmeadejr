@@ -74,7 +74,7 @@ Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-00
 <br />
 Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&logo=jest&logoColor=c21325"/></code>
 <code><img src="https://img.shields.io/badge/-RSpec-000000?&style=flat&logo=rspec&logoColor=e53935"/></code>
-<code><img src="https://img.shields.io/badge/-Cypress-000000?&style=flat&logo=cypress&logoColor=3c3c3c"/></code>
+<code><img src="https://img.shields.io/badge/-Cypress-000000?&style=flat&logo=cypress&logoColor=ffffff"/></code>
 <br /> 
 <br /> 
 Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo=git&logoColor=f05032"/></code>
