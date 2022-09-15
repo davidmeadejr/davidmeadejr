@@ -71,7 +71,7 @@ Frameworks: <code><img src="https://img.shields.io/badge/-Next.js-000000?style=f
 <br /> 
 <br /> 
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
-<code><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=326292"></code>
+<code><img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=green"></code>
 <br /> 
 <br />
 Testing:  <code><img src="https://img.shields.io/badge/-Jest-000000?&style=flat&logo=jest&logoColor=c21325"/></code>
