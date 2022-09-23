@@ -32,8 +32,6 @@
 
 * 🏦 4+ years working in FinTech.
 
-* 🏬 5+ years working in sales.
-
 * 🧑🏿‍💻 Writing code @ TBC.
 
 * 🙋🏿‍♂️ Building digital products is my thing.
