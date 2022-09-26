@@ -30,7 +30,7 @@
 
 * 🚀 1+ years working in web3.
 
-* 🏦 4+ years working in FinTech.
+* 🏦 4\frac{1}{2}+ years working in FinTech.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
