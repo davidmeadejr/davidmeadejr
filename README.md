@@ -26,6 +26,8 @@
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
 
+* ₿ ⧫ web3 bootcamp student.
+
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student.
 
 * 🚀 1+ years working in web3.
