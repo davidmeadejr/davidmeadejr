@@ -23,6 +23,7 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
+* https://y.at/♟️🚫🏁❗
 
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
 
