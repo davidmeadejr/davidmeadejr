@@ -23,8 +23,6 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
-* <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
-
 * 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
 
 * 🦇🔊 Web3 Solidity Bootcamp Student.
@@ -41,6 +39,8 @@
 
 * 🔭 Exploring maths, philosophy, investing and all things web3 in my spare time.
   * 🥷🏿 <em>(If i'm not at the gym, boxing, running, watching anime or reading manga). </em>
+  
+* 👀 still curious? → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
 ---
 
