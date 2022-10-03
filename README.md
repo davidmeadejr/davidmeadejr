@@ -31,7 +31,7 @@
 
 * 🚀 1+ years of technical experience in web3.
 
-* 🏦 4 and a half years of technical experience in FinTech.
+* 🏦 4.5 years of technical experience in FinTech.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
