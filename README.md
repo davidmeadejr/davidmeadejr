@@ -29,9 +29,9 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student.
 
-* 🚀 1+ years working in web3.
+* 🚀 1+ years of technical experience in web3.
 
-* 🏦 4.5 years working in FinTech.
+* 🏦 4.5 years of technical experience in FinTech.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
