@@ -27,7 +27,7 @@
 
 * 🦇🔊 Web3 Solidity Bootcamp Student.
 
-* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Student.
+* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
 * 🚀 1+ years of technical experience in web3.
 
