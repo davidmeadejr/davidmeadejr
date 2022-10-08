@@ -42,12 +42,12 @@
   
 * 👀 What to know a bit more? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
----
+<!--  ---
 
-**💬 Quote of the Day**
+  **💬 Quote of the Day**
 <br />
 <br />
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 ---
 
@@ -101,7 +101,12 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  
 Curriculum Vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>. 
 
- ---
+---
+ 
+**🧱 Projects **
+*
+
+---
 
 **📊 GitHub Stats**
 
