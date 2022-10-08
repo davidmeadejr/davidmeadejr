@@ -88,7 +88,7 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 ---
 
 **🧱 Projects**
-* Past and present projects can be found <strong><a href="" target=”_blank”>here</a></strong>. 
+* Past and present projects can be found <strong><a href="https://github.com/davidmeadejr/build-space" target=”_blank”>here</a></strong>. 
 
 
 ---
