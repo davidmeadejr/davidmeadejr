@@ -40,7 +40,7 @@
 * 🔭 Exploring maths, philosophy, investing and all things web3 in my spare time.
   * 🥷🏿 <em>(If i'm not at the gym, boxing, running, watching anime or reading manga). </em>
   
-* 👀 What to know a bit more? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
+* 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
 <!--  ---
 
