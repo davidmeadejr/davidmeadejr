@@ -68,7 +68,7 @@ Libraries: <code><img src="https://img.shields.io/badge/-React-000000?style=flat
 Frameworks: <code><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.JS&logoColor=white" /></code>
 <code><img src="https://img.shields.io/badge/-Express-000000?&style=flat&logo=express&logoColor=ffffff"/></code>
 <code><img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=de0031"></code>
-<code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=reactnative&logoColor=03AABF" /></code>
+<code><img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=reactnative&logoColor=03AABF" /></code>
 <br /> 
 <br /> 
 Database Management: <code><img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=326292"></code>
