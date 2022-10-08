@@ -87,6 +87,11 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 
 ---
 
+**🧱 Projects **
+* Side projects can be found here.
+
+---
+
 **👣 Footprints**
  * <strong>Trainee Solidity Engineer</strong>, <em>Encode Club</em> (Sept 2022 – Oct 2022)
  * <strong>Trainee Full-Stack Software Engineer</strong>, <em>Makers Academy</em> (Jun 2022 – Oct 2022)
@@ -100,11 +105,6 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
  * <strong>Sales</strong>, <em>House of Fraser</em> (Sep 2015 – Jan 2016)  -->
  
 Curriculum Vitae can be found <strong><a href="https://github.com/davidmeadejr/davidmeadejr/blob/master/.github/workflows/curriculum-vitae.pdf" target=”_blank”>here</a></strong>. 
-
----
- 
-**🧱 Projects **
-*
 
 ---
 
