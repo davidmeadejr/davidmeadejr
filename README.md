@@ -88,7 +88,8 @@ Other: <code><img src="https://img.shields.io/badge/-Git-000000?&style=flat&logo
 ---
 
 **🧱 Projects **
-* Side projects can be found here.
+* Side projects can be found <strong><a href="" target=”_blank”>here</a></strong>. 
+
 
 ---
 
