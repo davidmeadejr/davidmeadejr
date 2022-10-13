@@ -14,7 +14,7 @@
 <code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
   &nbsp;
-<a href="https://www.linkedin.com/in/davidmeadejr/">
+<a href="https://github.com/davidmeadejr/github-curriculum-vitae">
 <code><img src="https://img.shields.io/badge/-GitHub%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
   &nbsp;
