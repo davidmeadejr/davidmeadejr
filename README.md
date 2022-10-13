@@ -33,11 +33,11 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
-* 🚀 1+ years of technical experience in web3.
+* 🚀 1+ years of technical experience in Web3.
 
 * 🏦 4.5 years of technical experience in FinTech.
 
-* 🤝 5 years of experience applying persuasion principles in sales.
+* 🤝 5 years of experience applying persuasion principles in Sales.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
