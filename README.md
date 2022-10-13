@@ -37,7 +37,7 @@
 
 * 🏦 4.5 years of technical experience in FinTech.
 
-* 🤝 5 years of experience applying the psychology of persuasion principles in sales.
+* 🤝 5 years of experience applying persuasion principles in sales.
 
 * 🧑🏿‍💻 Writing code @ TBC.
 
