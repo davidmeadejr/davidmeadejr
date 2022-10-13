@@ -21,9 +21,10 @@
 
 </div>
 
+---
 
 
-## 🔎 About
+**🔎 About**
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
@@ -52,8 +53,9 @@
   Lets talk 💬
 </a>
 
+---
 
-## 🧱 Projects
+**🧱 Projects**
 
 Solo and collaborative projects can be found here →  &nbsp;
 <a href="https://github.com/davidmeadejr/build-space">
