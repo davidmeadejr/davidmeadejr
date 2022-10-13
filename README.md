@@ -6,14 +6,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Welcome...;My+name+is+David...;Programmer+and+Product+Engineer...;Specialising+in+full-stack+blockchain+engineering...;and+digital+product+design...;Passionate+about+building+products+in+the+web3+space.)](https://git.io/typing-svg)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/davidmeadejr/">
-<code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=03AABF" /></code>
-</a>
-    &nbsp;
 <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/curriculum-vitae.pdf">
 <code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/davidmeadejr/">
+<code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=03AABF" /></code>
+</a>
+    &nbsp;
 <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
 <code><img src="https://img.shields.io/badge/-GitHub%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
