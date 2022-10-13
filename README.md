@@ -11,10 +11,6 @@
 <code><img src="https://img.shields.io/badge/-GitHub%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
   &nbsp;
-<a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/curriculum-vitae.pdf">
-<code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
-</a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/davidmeadejr/">
 <code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=03AABF" /></code>
 </a>
