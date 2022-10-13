@@ -45,6 +45,3 @@
 
 
 ---
-
-**🧱 Projects**
-* Past and present projects can be found <strong><a href="https://github.com/davidmeadejr/build-space" target=”_blank”>here</a></strong>.
