@@ -48,28 +48,3 @@
 
 **🧱 Projects**
 * Past and present projects can be found <strong><a href="https://github.com/davidmeadejr/build-space" target=”_blank”>here</a></strong>. 
-
-
----
-
-**📊 GitHub Stats**
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
- <br />
- <br />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
- <br />
- <br />
-<img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
-<br />
-<br />
-<br />
-<br />
- <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
-
