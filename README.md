@@ -46,6 +46,8 @@
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
+* 📧 Have I sparked your interest? Lets talk
+
 ---
 
 
