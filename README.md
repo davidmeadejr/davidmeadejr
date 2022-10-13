@@ -47,7 +47,7 @@
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
 * 📧 Have I sparked your interest yet? <a href="mailto:davidmeadejnrgmail.com">
-  Lets talk.
+  Lets talk 💬
 </a>
 
 ---
