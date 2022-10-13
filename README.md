@@ -12,7 +12,7 @@
 </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/davidmeadejr/">
-<code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=03AABF" /></code>
+<code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0072b1" /></code>
 </a>
   &nbsp;
   <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/curriculum-vitae.pdf">
