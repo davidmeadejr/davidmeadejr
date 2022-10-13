@@ -7,12 +7,6 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/davidmeadejr/">
-  <img align="center" alt="David Meade Jr. | LinkedIn" width="30px"
-   src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
-  &nbsp;
-<div align="center">
-<a href="https://www.linkedin.com/in/davidmeadejr/">
 <code><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=03AABF" /></code>
 </a>
   &nbsp;
