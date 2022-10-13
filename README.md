@@ -11,7 +11,7 @@
 </a>
     &nbsp;
 <a href="https://www.linkedin.com/in/davidmeadejr/">
-<code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=pdf&logoColor=03AABF" /></code>
+<code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=03AABF" /></code>
 </a>
   &nbsp;
 <a href="https://www.linkedin.com/in/davidmeadejr/">
