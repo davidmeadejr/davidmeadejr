@@ -38,8 +38,6 @@
 
 * 🏦 4.5 years of technical experience in FinTech.
 
-* 🤝 5 years of experience honing soft skills & persuasion principles in Sales.
-
 * 🧑🏿‍💻 Writing code @ TBC.
 
 * 🙋🏿‍♂️ Building digital products is my thing.
