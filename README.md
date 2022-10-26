@@ -28,7 +28,7 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
-* 🧑🏿‍🎓 **BSc Digital & Technology Solutions** Graduate.
+* 🧑🏿‍🎓 **Bachelor of Science, Digital & Technology Solutions** Graduate.
 
 * 🦇🔊 Web3 Bootcamp Graduate.
 
