@@ -55,16 +55,11 @@
 
 **🧱 Projects**
 
-✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
-<br /> 
-<br /> 
-Solo and collaborative projects can be found here →  &nbsp;
-<a href="https://github.com/davidmeadejr/build-space">
-<code>✨<img src="https://img.shields.io/badge/-Personal%20Build%20Space-000000?style=flat&logo=github&logoColor=ffffff" />✨
-</a></code>
-</a>
-<br /> 
-<br /> 
-✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+
+| **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
+| Block Journal     | The world’s first web3 journaling app with a twist. Promoting good habits through daily journals. Journal on the blockchain for a chance to win free ETH. Built using Solidity, JavaScript, Hardhat and React.                                                        | 2 weeks       | Solidity, JavaScript, React, Hardhat | [Repo](https://github.com/davidmeadejr/block-journal)               | [Live](https://block-journal.vercel.app/)           |
+ 
+---
 
 
