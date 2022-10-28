@@ -55,17 +55,9 @@
 
 **🧱 Projects**
 
-### 1) Block Journal - Promoting good habits through daily journaling on the blockchain. For a chance to win free ETH. 💡
-
-#### Click Here 👇 <a href="https://github.com/davidmeadejr/block-journal">
-<centre> <img src="blockJournal.png" width="300px"> 
-<centre/>
-</a>
-
-
 | **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
-| Block Journal     | The world’s first web3 journaling app with a twist. Promoting good habits through daily journals. Journal on the blockchain for a chance to win free ETH. Built using Solidity, JavaScript, Hardhat and React.                                                        | 2 weeks       | Solidity, JavaScript, React, Hardhat | [Repo](https://github.com/davidmeadejr/block-journal)               | [Live](https://block-journal.vercel.app/)           |
+| Block Journal     | A POC DApp where users can log and view their daily journals on the blockchain for a chance to win free ETH. Built using Solidity, JavaScript, Hardhat and React.                                                        | 2 weeks       | Solidity, JavaScript, React, Hardhat | [Repo](https://github.com/davidmeadejr/block-journal)               | [Live](https://block-journal.vercel.app/)           |
  
 ---
 
