@@ -55,6 +55,13 @@
 
 **🧱 Projects**
 
+### 1) Block Journal - Promoting good habits through daily journaling on the blockchain. For a chance to win free ETH. 💡
+
+#### Click Here 👇 <a href="https://github.com/davidmeadejr/block-journal">
+<centre> <img src="blockJournal.png" width="300px"> 
+<centre/>
+</a>
+
 
 | **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
