@@ -65,4 +65,26 @@
 | Name Service | Created a custom domain name service on Polygon L2.                                                     | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
 ---
 
+<!-- **📊 GitHub Stats**
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
+
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
+ <br />
+ <br />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
+ <br />
+ <br />
+<img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
+<br />
+<br />
+<br />
+<br /> -->
+ <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=343c44&style=flat&logo" alt="back to top" /></a></p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
+
 
