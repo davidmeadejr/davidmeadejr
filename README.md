@@ -72,7 +72,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark" /></a> 
  <br />
  <br />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
  <br />
  <br />
 <!-- <img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
