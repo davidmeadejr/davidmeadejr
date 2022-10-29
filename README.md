@@ -65,7 +65,7 @@
 | Name Service | Created a custom domain name service on Polygon L2.                                                     | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
 ---
 
-**📊 GitHub Stats**
+**📊 Languages**
 
   <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
 
