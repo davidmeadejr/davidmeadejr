@@ -21,6 +21,9 @@
 <code><img src="https://img.shields.io/badge/-External%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
 
 </a>
+  <p align="center">
+	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>  
 </div>
 
 
