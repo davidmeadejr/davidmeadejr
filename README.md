@@ -22,11 +22,11 @@
 
 </a>
   &nbsp;
-<!--   <div align="center"> -->
+  <div 
 
 	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=6ad20b&style=flat-square&label=Profile+Views" />
 
-<!-- 	</div>   -->
+</div>  
 </div>
 
 
