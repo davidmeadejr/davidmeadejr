@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=6ad20b&style=flat-square&label=Profile+Views" />
-</p>
+
 
 <div align="center">
   <br /> 
@@ -24,6 +22,10 @@
 </a>
 
 </div>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=6ad20b&style=flat-square&label=Profile+Views" />
+</p>
 
 ---
 
