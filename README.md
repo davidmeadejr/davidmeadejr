@@ -1,4 +1,6 @@
-
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=6ad20b&style=flat-square&label=Profile+Views" />
+</p>
 
 <div align="center">
   <br /> 
