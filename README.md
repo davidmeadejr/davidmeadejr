@@ -59,7 +59,7 @@
 
 ---
 
-**🧱 Projects**
+<!-- **🧱 Projects**
 
 | **Project**               | **Description**                                                                                                           | **Timeframe** | **Technologies**                                | **Github**                                                          | **Live**                                          |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
@@ -69,7 +69,7 @@
 | A NFT Marketplace   | Created a NFT marketplace from scratch on testnet.                                                       | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
 | A NFT Game  | Created a NFT game.                                                       | 2 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
 | Name Service | Created a custom domain name service on Polygon L2.                                                     | 1 week       | <code><img src="https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity&logoColor=ffffff" /></code> <code><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" /></code> <code><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" /></code> <code><img src="https://img.shields.io/badge/-Hardhat-000000?&style=flat&logo=hardhat&logoColor=6DA55F"/></code><code><img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=6DA55F"/></code> | [Repo](...)               | [Live](...)           |
----
+--- -->
 
 **📊 Statistics**
 
