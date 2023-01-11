@@ -48,7 +48,7 @@
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Exploring maths, philosophy, computers and all things web3 in my spare time.
+* 🔭 Exploring maths, machine learning, and all things web3 in my spare time.
   * 🥷🏿 <em>(If i'm not at the gym, boxing, running, watching anime or reading manga). </em>
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
