@@ -73,7 +73,8 @@
 **📊 Statistics**
 
   <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css" alt="DMJ's github stats" /></a> 
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css" alt="DMJ's github stats" /></a> 
+
   
 
 
