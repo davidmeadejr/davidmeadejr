@@ -36,7 +36,7 @@
 
 * 🧑🏿‍🎓 **Bachelor of Science, Digital & Technology Solutions** Graduate.
 
-* 🦇🔊 <a href="https://poap.gallery/event/98395">Chainlink Certified Smart Contract Developer</a>.
+* 🦇🔊 <a href="[https://poap.gallery/event/98395](https://app.poap.xyz/token/6264372)">Chainlink Certified Smart Contract Developer</a>.
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
