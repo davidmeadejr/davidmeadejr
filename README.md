@@ -44,7 +44,7 @@
 
 * 🏦 4.5 years of technical experience in FinTech.
 
-<!-- * 🧑🏿‍💻 SWE @ -->
+<!-- * 🧑🏿‍💻 SWE @. -->
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
