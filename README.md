@@ -22,7 +22,7 @@
 
 	
 <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
-<code><img src="https://img.shields.io/badge/-GitHub%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
+<code><img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
 </a>
 
 </div>
