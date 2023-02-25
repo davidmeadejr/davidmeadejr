@@ -49,7 +49,7 @@
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Exploring applied mathematics, machine learning, and decentralisation in my spare time.
+* 🔭 startups, product design, philosophy and technology. in my spare time.
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
