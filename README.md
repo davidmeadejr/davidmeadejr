@@ -52,7 +52,7 @@
 
 * 🙋🏿‍♂️ Building digital products is my thing.
 
-* 🔭 Exploring startups, product design, philosophy, technology and playing chess in my spare time.
+* 🔭 Exploring startups, product design, philosophy, technology in my spare time.
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
