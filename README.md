@@ -35,6 +35,8 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
+* 🧠 <a href="https://hackerthon.ai/"> Project Data Hack x Google 2022 Brightest Minds.</a>
+
 * 🧑🏿‍🎓 **BSc, Digital & Technology Solutions, Computer Software Engineering** Graduate.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
