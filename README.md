@@ -43,9 +43,10 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
+* 🏦 4.5 years of professional technical experience in FinTech.
+
 * 🚀 1+ years of professional technical experience in Web3.
 
-* 🏦 4.5 years of professional technical experience in FinTech.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
