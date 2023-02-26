@@ -37,7 +37,7 @@
 
 * 🧠 <a href="https://hackerthon.ai/"> Project Data Hack x Google 2022 Brightest Minds winner.</a>
 
-* 🧑🏿‍🎓 **BSc, Digital & Technology Solutions, Computer Software Engineering** Graduate.
+* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering Graduate.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
