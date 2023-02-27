@@ -41,7 +41,7 @@
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
-* 🧑🏿‍🎓 Full-Stack Software Engineering Bootcamp Graduate.
+* 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
 * 📈 Customer-centric full-stack software engineer focused on FinTech, startups and web3 companies.
 
