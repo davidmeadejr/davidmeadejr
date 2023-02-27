@@ -35,7 +35,7 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
-* 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner.</a>.
+* 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner</a>.
 
 * 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering Graduate.
 
@@ -43,7 +43,7 @@
 
 * 🧑🏿‍🎓 Full-Stack Software Engineering Bootcamp Graduate.
 
-* 🧑🏿‍💻 Customer-centric full-stack software engineer focused on FinTech, startups and web3 companieS.
+* 🧑🏿‍💻 Customer-centric full-stack software engineer focused on FinTech, startups and web3 companies.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
