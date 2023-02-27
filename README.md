@@ -37,7 +37,7 @@
 
 * 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner</a>.
 
-* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering Graduate.
+* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
