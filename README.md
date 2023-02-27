@@ -43,13 +43,11 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
-* 📈 Customer-centric full-stack software engineer focused on FinTech, startups and web3.
+* 🎯 Focused on FinTech, startups and web3.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
 * 🙋🏿‍♂️ Building digital products is my thing.
-
-* 🔭 Exploring startups, product design, philosophy and technology in my spare time.
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
