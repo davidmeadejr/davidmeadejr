@@ -41,7 +41,7 @@
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
-* 🧑🏿‍💻 Consumer-centric full-ftack software engineer.
+* 🧑🏿‍💻 Consumer-centric full-ftack software engineer focused on FinTech, startups and web3.
 
 * 🎯 Focused on FinTech, startups and web3.
 
