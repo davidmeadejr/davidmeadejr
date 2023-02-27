@@ -43,7 +43,7 @@
 
 * 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp Graduate.
 
-* 📈 Customer-centric full-stack software engineer focused on FinTech, startups and web3 companies.
+* 📈 Customer-centric full-stack software engineer focused on FinTech, startups and web3.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
