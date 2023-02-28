@@ -37,13 +37,13 @@
 
 * 🧑🏿‍💻 Consumer-centric full-stack software engineer.
 
-* 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner</a>.
+* 🎯 Focused on FinTech, startups and web3.
 
-* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering.
+* 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner</a>.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
-* 🎯 Focused on FinTech, startups and web3.
+* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
