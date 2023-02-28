@@ -47,7 +47,7 @@
 
 <!-- * 🧑🏿‍💻 SWE @. -->
   
-* 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
+* 👀 Want to know more? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
 * 📧 Have I sparked your interest? <a href="mailto:davidmeadejnrgmail.com">
   Lets talk 💬
