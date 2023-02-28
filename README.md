@@ -46,8 +46,6 @@
 * 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
-
-* 🔭 exploring web3, AI, startups, product design and philosophy in my spare time.
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
