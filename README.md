@@ -47,7 +47,7 @@
 
 <!-- * 🧑🏿‍💻 SWE @. -->
 
-* 🙋🏿‍♂️ Building digital products is my thing.
+* 🔭 exploring web3, AI, startups, product design and philosophy in my spare time.
   
 * 👀 Still curious? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
