@@ -35,7 +35,7 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
-* 🧑🏿‍💻 Consumer-centric full-stack software engineer.
+* 🧑🏿‍💻 Customer-centric full-stack software engineer.
 
 * 🎯 Focused on FinTech, startups and web3.
 
