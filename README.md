@@ -43,7 +43,7 @@
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
-* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering.
+* 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering graduate.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
   
