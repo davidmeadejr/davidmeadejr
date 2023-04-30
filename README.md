@@ -39,15 +39,13 @@
 
 * 🎯 Focused on FinTech, startups and web3.
 
-* 🧠 <a href="https://hackerthon.ai/"> 2022 Project Data Hack x Google Hackathon winner</a>.
+* 🧠 2022 Project Data Hack x Google Hackathon winner.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
 * 🧑🏿‍🎓 BSc, Digital & Technology Solutions, Computer Software Engineering graduate.
 
 <!-- * 🧑🏿‍💻 SWE @. -->
-  
-* 👀 Want to know more? Click here → <a href="https://y.at/♟️🚫🏁❗" alt=Yat>🖖</a>
 
 * 📧 Have I sparked your interest? <a href="mailto:davidmeadejnrgmail.com">
   Lets talk 💬
