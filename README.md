@@ -19,7 +19,7 @@
 
 <div align="center">
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
-        <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-21262d?style=flat&logo=github&logoColor=ffffff" />
+        <code><img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-21262d?style=flat&logo=github&logoColor=ffffff" /></code>
     </a>
     <a href="https://www.linkedin.com/in/davidmeadejr/">
         <img src="https://img.shields.io/badge/-LinkedIn-21262d?style=flat&logo=linkedin&logoColor=0072b1" />
