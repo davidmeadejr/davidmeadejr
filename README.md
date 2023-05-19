@@ -35,7 +35,7 @@
 
 <a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
-* 🧑🏿‍💻 Software engineer focused on customer-centric products.
+* 🧑🏿‍💻 Leveraging code for customer-centric products.
 
 * 🎯 Focused on FinTech, startups, decentralisation & machine learning.
 
