@@ -8,8 +8,6 @@
 </div>
   <br /> 
 <div align="center">
-
-<!-- [![PDF Curriculum Vitae](https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/davidmeadejr/) [![Digital Curriculum Vitae](https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/davidmeadejr/github-curriculum-vitae) -->
 	
 [![PDF Curriculum Vitae](https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-21262d?style=flat&logo=github&logoColor=ffffff)](https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262d?style=flat&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/davidmeadejr/)
