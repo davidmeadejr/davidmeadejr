@@ -28,7 +28,7 @@
 
 * 🦇🔊 [Chainlink Certified Smart Contract Developer](https://app.poap.xyz/token/6264372).
 
-* 🧑🏿‍🎓 BSc, Digital & Technology Solutions.
+* 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
 * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com)
 <!-- * 🧑🏿‍💻 SWE @. -->
