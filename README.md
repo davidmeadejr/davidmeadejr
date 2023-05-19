@@ -50,7 +50,9 @@
 * 📧 Have I sparked your interest? <a href="mailto:davidmeadejnrgmail.com">
   Lets talk 💬
 </a>
-
+  <br /> 
+    <br /> 
+      <br /> 
 ---
 
 <!-- **🧱 Prrojectsss**
