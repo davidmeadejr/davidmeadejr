@@ -10,9 +10,9 @@
 <div align="center">
 	
 [![PDF Curriculum Vitae](https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-21262d?style=flat&logo=github&logoColor=ffffff)](https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf)
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21262d?style=flat&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/davidmeadejr/)
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Digital Curriculum Vitae](https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-21262d?style=flat&logo=github&logoColor=ffffff)](https://github.com/davidmeadejr/github-curriculum-vitae)
 
 </div>
