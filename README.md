@@ -27,8 +27,8 @@
 * 🧠 2022 Project Data Hack x Google Hackathon winner.
 * 🦇🔊 [Chainlink Certified Smart Contract Developer](https://app.poap.xyz/token/6264372).
 * 🧑🏿‍🎓 BSc, Digital & Technology Solutions.
-<!-- * 🧑🏿‍💻 SWE @. -->
 * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com)
+<!-- * 🧑🏿‍💻 SWE @. -->
 
 ---
 
