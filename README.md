@@ -6,8 +6,6 @@
   <br /> 
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
- 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Welcome...;My+name+is+David...;I+am+a+Software+Engineer...;Passionate+about+solving+problems...;and+building+customer-centric+products.)](https://git.io/typing-svg) -->
   <br /> 
 <div align="center">
   
@@ -70,30 +68,13 @@
 
 **📊 Statistics**
 
-  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmeadejr&theme=matrix&margin-w=15&margin-h=15&column=7" alt="davidmeadejr" /></a> </p> -->
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++" alt="DMJ's github stats" /></a> 
 
   
 
 
 
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=java/></a>  -->
  <br />
  <br />
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmeadejr&show_icons=true&theme=chartreuse-dark" alt="DMJ's github stats" /></a> 
- <br />
- <br />
-<!-- <img alt="github contribution snake animation" src="https://github.com/davidmeadejr/davidmeadejr/blob/output/github-contribution-grid-snake.svg">
-<br />
-<br />
-<br />
-<br /> -->
-<!-- <p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=343c44&style=flat&logo" alt="back to top" /></a></p> 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
-
 
 
