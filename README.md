@@ -8,7 +8,7 @@
 </div>
  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=25&color=6ad20b&center=true&vCenter=true&width=900&height=60&lines=Welcome...;My+name+is+David...;I+am+a+Software+Engineer...;Passionate+about+solving+problems...;and+building+customer-centric+products.)](https://git.io/typing-svg) -->
-
+  <br /> 
 <div align="center">
   
   <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
