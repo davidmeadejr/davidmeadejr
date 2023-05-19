@@ -37,7 +37,7 @@
 
 * 🧑🏿‍💻 Software engineer focused on customer-centric products.
 
-* 🎯 Focused on FinTech, startups and web3.
+* 🎯 Focused on FinTech, startups, decentralisation & machine learning.
 
 * 🧠 2022 Project Data Hack x Google Hackathon winner.
 
