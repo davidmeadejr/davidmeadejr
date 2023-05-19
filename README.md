@@ -30,7 +30,7 @@
 
 * 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
-* 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com)
+<!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE @. -->
 
 ---
