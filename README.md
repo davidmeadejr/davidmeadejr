@@ -26,7 +26,7 @@
 
 * 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
-* 🦇🔊 Chainlink Certified Smart Contract Developer.
+* 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
 * 💻 Leveraging code for customer-centric products.
 
