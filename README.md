@@ -2,10 +2,10 @@
 	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=000000&style=flat-square&label=Profile+Views" />
 </p>
 
-<!-- <div align="center">
+<div align="center">
   <br /> 
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
-</div> -->
+</div>
   <br /> 
 <div align="center">
   
@@ -30,8 +30,6 @@
 
 
 **🔎 About**
-
-<a href="https://app.daily.dev/davidmeadejr"><img src="https://github.com/davidmeadejr/davidmeadejr/blob/master/devcard.svg" width="200" align="right" alt="David Meade Jr.'s Dev Card"/></a>
 
 * 🧑🏿‍💻 Leveraging code for customer-centric products.
 
