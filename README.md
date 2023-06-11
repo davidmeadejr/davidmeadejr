@@ -45,8 +45,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=pie)](https://github.com/davidmeadejr/github-readme-stats)
 
 **📊 Statistics**
 
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++" alt="DMJ's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++" alt="DMJ's github stats" />
