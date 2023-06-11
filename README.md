@@ -45,7 +45,7 @@
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=pie)](https://github.com/davidmeadejr/github-readme-stats)
 
 **📊 Statistics**
 
