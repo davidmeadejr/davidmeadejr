@@ -36,7 +36,7 @@
 
 * 💻 Leveraging code for customer-centric products.
 
-* 🎯 Focused on FinTech, Startups, Decentralisation and Reinforcement Learning.
+* 🎯 Focused on FinTech, Startups, Decentralisation and Machine Learning.
 
 * 🧠 2022 Project Data Hack x Google Hackathon winner.
 
