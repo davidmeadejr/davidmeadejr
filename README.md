@@ -47,7 +47,4 @@
 
 
 **📊 Statistics**
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++" alt="DMJ's github stats" />
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++)
