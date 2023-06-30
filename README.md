@@ -36,7 +36,7 @@
 
 * 💻 Leveraging code for customer-centric products.
 
-* 🎯 Focused on Machine Learning, Spatial Computing and Computer Vision.
+* 🎯 Focused on Machine Learning, Spatial Computing and Mixed Reality.
 
 * 🧠 2022 Project Data Hack x Google Hackathon winner.
 
