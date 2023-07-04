@@ -44,7 +44,7 @@
 <!-- * 🧑🏿‍💻 SWE @. -->
 
 
-Exploration through code using mental models. In the fields of Machine Learning, Decentralisation, and Spatial Computing.
+Exploration through code in the fields of Machine Learning, Decentralisation, and Spatial Computing.
 
 ---
 
