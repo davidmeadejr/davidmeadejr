@@ -43,8 +43,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE @. -->
 
-Focused on Machine Learning, delving into Decentralisation and exploring Spatial Computing.
-
+Exploration through code in the fields of Machine Learning, Decentralisation, and Spatial Computing.
 ---
 
 
