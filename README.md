@@ -30,7 +30,7 @@
 
 **🔎 About**
 
-<!--* 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
+🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
@@ -38,13 +38,13 @@
 
 * 🎯 Focused on Machine Learning, Decentralisation and Spatial Computing.
 
-* 🧠 2022 Project Data Hack x Google Hackathon winner.  -->
+* 🧠 2022 Project Data Hack x Google Hackathon winner. 
 
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE @. -->
 
 
-Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing.
+<!-- Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing. -->
 
 ---
 
