@@ -30,7 +30,7 @@
 
 **🔎 About**
 
-🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
+* 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
 * 🦇🔊 <a href="https://app.poap.xyz/token/6264372">Chainlink Certified Smart Contract Developer</a>.
 
