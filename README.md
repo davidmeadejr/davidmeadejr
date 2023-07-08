@@ -38,7 +38,7 @@
 
 * 🔍 Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing.
 
-* 🧠 2022 Project Data Hack x Google Hackathon winner
+* 🧠 2022 Project Data Hack x Google Hackathon winner.
 
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE @. -->
