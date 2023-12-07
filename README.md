@@ -43,7 +43,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-www.davidmeadejr.com
+Interested in optimising ML models
 
 ---
 
