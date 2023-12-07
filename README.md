@@ -43,7 +43,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing.
+www.davidmeadejr.com
 
 ---
 
