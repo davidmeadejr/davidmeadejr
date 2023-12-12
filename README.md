@@ -43,7 +43,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Optimising ML models for customer-centric products.
+Refining ML models for customer-centric products.
 
 ---
 
