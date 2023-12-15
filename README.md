@@ -45,8 +45,6 @@
 
 Interested in refining ML models for customer-centric products.
 
----
-
 
  <!--**📊 Statistics**
 
