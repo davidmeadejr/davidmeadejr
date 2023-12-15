@@ -48,6 +48,6 @@ Interested in refining ML models for customer-centric products.
 ---
 
 
-**📊 Statistics**
+ <!--**📊 Statistics**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmeadejr&layout=compact&theme=chartreuse-dark&hide=objective-c%2B%2B,objective-c,html,css,Objective-c++,jupyter%20notebook) -->
