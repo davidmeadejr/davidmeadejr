@@ -8,22 +8,20 @@
 </div>
   <br /> 
 
-
-<code>
+<div >
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
-        <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=ffffff" />
     </a>
-</code>
-<code>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/davidmeadejr/">
-        <img height="20" src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=0072b1" />
     </a>
-</code>
-<code>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
-        <img height="20" src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=ffffff"/>
     </a>
-</code>
+</div>
+
 
 
 
