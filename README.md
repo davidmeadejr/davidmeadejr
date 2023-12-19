@@ -16,7 +16,7 @@
   <a href="https://github.com/davidmeadejr/github-curriculum-vitae"><img src="https://img.shields.io/badge/Digital%20Resume-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </div>
 
----
+## ---
 
 
 <!-- **🔎 About** -->
