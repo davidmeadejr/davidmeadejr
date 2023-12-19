@@ -20,6 +20,7 @@
     <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
         <img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=ffffff"/>
     </a>
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
