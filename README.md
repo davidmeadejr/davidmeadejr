@@ -14,7 +14,7 @@
     </a>
 	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/davidmeadejr/">
-        <img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=0072b1" />
+        <img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=fff" />
     </a>
 	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
