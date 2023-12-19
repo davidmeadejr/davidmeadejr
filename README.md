@@ -34,7 +34,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Interested in refining ML models for customer-centric products.
+Interested in modern computing and productising ML.
 
 
  <!--**📊 Statistics**
