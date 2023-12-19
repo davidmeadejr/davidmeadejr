@@ -8,7 +8,7 @@
 </div>
   <br /> 
 
-<div >
+<div align="center" >
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
         <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=ffffff" />
     </a>
