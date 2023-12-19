@@ -13,14 +13,13 @@
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
         <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" />
     </a>
-    <a href="https://www.linkedin.com/in/davidmeadejr/">
+    <a href="https://www.linkedin.com/in/davidmeadejr/" style="margin: 0 20px;">
         <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=0072b1" />
     </a>
     <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
         <img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff"/>
     </a>
 </div>
-
 
 ---
 
