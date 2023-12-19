@@ -11,7 +11,7 @@
 
 <code>
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
-        <img height="20" src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=fff" />
+        <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=fff" />
     </a>
 </code>
 <code>
