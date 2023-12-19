@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=000000&style=flat-square&label=Profile+Views:" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <br /> 
     <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60">
 </div>
@@ -14,7 +14,7 @@
   <!-- <a href="https://www.linkedin.com/in/naomi-schl%C3%B6sser-1a0861150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
   <!-- &nbsp;&nbsp;
   <a href="https://github.com/davidmeadejr/github-curriculum-vitae"><img src="https://img.shields.io/badge/Digital%20Resume-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
-</div>
+<!-- </div> 
 
 ##
 
@@ -34,7 +34,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-<div align=center>Interested in refining ML models for customer-centric products.</div>
+Interested in refining ML models for customer-centric products.
 
 
  <!--**📊 Statistics**
