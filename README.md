@@ -1,6 +1,6 @@
-<!-- <p align="left">
+<p align="left">
 	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=000000&style=flat-square&label=Profile+Views:" />
-</p> -->
+</p>
 
 <div align="center">
   <br /> 
@@ -8,7 +8,7 @@
 </div>
   <br /> 
 
-<!--
+
 <div align="center">
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
         <code><img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-000000?style=flat&logo=github&logoColor=ffffff" /></code>
@@ -25,7 +25,6 @@
 
 ---
 
--->
 
 <!-- **🔎 About** -->
 
