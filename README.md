@@ -8,6 +8,12 @@
 </div>
   <br /> 
 
+<div align="center">
+	<a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdff"><img src="https://img.shields.io/badge/PDF CV-97bcc8?style=for-the-badge&logo=cv&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/naomi-schl%C3%B6sser-1a0861150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://github.com/davidmeadejr/github-curriculum-vitae"><img src="https://img.shields.io/badge/GithubCV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
 <div align="center" >
     <a href="https://github.com/davidmeadejr/external-curriculum-vitae/blob/master/external-curriculum-vitae-updated.pdf">
         <img src="https://img.shields.io/badge/-PDF%20Curriculum%20Vitae-gray?style=flat&logo=github&logoColor=ffffff" />
