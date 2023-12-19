@@ -19,7 +19,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/davidmeadejr/github-curriculum-vitae">
-        <img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-black?style=flat&logo=github&logoColor=808080"/>
+        <img src="https://img.shields.io/badge/-Digital%20Curriculum%20Vitae-black?style=flat&logo=github&logoColor=fff"/>
     </a>
 </div>
 
