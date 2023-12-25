@@ -19,7 +19,6 @@
 ##
 
 
-<!-- **🔎 About** -->
 
 <!--  * 🧑🏿‍🎓 Bachelor of Science - BSc, Digital & Technology Solutions.
 
