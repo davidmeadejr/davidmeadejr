@@ -8,7 +8,7 @@
 </div>
   <br /> 
 
-<div align="center">
+<div align="center"
   <a href="https://www.linkedin.com/in/davidmeadejr/overlay/1635553808497/single-media-viewer/?type=DOCUMENT&profileId=ACoAACOnweMB2NEIXA_bJryyk9CNXmEts0TIftM"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=cv&logoColor=white"></a>
   &nbsp;&nbsp;
   <!-- <a href="https://www.linkedin.com/in/naomi-schl%C3%B6sser-1a0861150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
