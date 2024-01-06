@@ -1,5 +1,5 @@
 <!-- <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=000000&style=flat-square&label=Profile+Views:" />
+	<img src="https://komarev.com/ghpvc/?username=davidmeadejr&color=000000&style=flat-square&label=Profile+Views:" /
 </p> -->
 
 <!-- <div align="center">
