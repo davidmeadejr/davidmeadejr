@@ -33,7 +33,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Interested in modern computing from first-principles and productising ML.
+Interested in modern computing from first-principles and productizing ML.
 
 
  <!--**📊 Statistics**
