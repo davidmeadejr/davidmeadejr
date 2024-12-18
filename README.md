@@ -33,8 +33,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Interested in modern computing from first-principles and productizing ML.
-
+Interested in leveraging code and refining ML models for customer-centric products.
 
  <!--**📊 Statistics**
 
