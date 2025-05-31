@@ -33,7 +33,7 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Interested in leveraging code and refining ML models for customer-centric products.
+Interested in understanding systems from first principles to build high-performance products that solve real problems.
 
  <!--**📊 Statistics**
 
