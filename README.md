@@ -33,7 +33,8 @@
 <!-- * 📧 Have I sparked your interest? [Lets talk 💬](mailto:davidmeadejnrgmail.com) -->
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
-Interested in understanding systems from first principles to build high-performance products that solve real problems.
+<!-- Interested in understanding systems from first principles to build high-performance products that solve real problems. -->
+"Only the autodidacts are free." - Nassim Taleb
 
  <!--**📊 Statistics**
 
