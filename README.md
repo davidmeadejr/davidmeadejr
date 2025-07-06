@@ -34,7 +34,8 @@
 <!-- * 🧑🏿‍💻 SWE. @ -->
 
 <!-- Interested in understanding systems from first principles to build high-performance products that solve real problems. -->
-"Only the autodidacts are free." - Nassim Taleb
+<!-- "Only the autodidacts are free." - Nassim Taleb  -->
+"If experience is our greatest teacher, where are you taking notes?"
 
  <!--**📊 Statistics**
 
