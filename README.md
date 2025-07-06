@@ -35,7 +35,7 @@
 
 <!-- Interested in understanding systems from first principles to build high-performance products that solve real problems. -->
 <!-- "Only the autodidacts are free." - Nassim Taleb  -->
-"If experience is our greatest teacher, where are you taking notes?"
+Interested in building scalable infrastructure, with a focus on platform engineering and MLOps to build high-performance customer-centric products.
 
  <!--**📊 Statistics**
 
