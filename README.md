@@ -26,7 +26,7 @@
 
 * 💻 Leveraging code for customer-centric products.
 
-* 🔍 Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing.
+* 🔍 Exploration through coding in the fields of Machine Learning, Decentralisation, and Spatial Computing....
 
 * 🧠 2022 Project Data Hack x Google Hackathon winner. -->
 
