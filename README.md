@@ -4,7 +4,7 @@
 
 <!-- <div align="center">
   <br /> 
-    <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60"../.
+    <img  align="center" src="https://media.giphy.com/media/aExP3YOqb6ImBe5HG2/giphy.gif" width="60"../
 </div>
   <br /> 
 
